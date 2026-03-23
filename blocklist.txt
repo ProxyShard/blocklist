@@ -52,7 +52,9 @@ udp_port:20000-20100
 # -------------------------------
 # TCP blocked ports
 # -------------------------------
-tcp_port:1-992
+tcp_port:1-79
+tcp_port:81-442
+tcp_port:444-992
 tcp_port:994
 tcp_port:996-1080
 tcp_port:1194
