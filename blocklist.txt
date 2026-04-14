@@ -54,8 +54,8 @@ udp_port:20000-20100
 # -------------------------------
 tcp_port:1-79
 tcp_port:81-442
-tcp_port:444-852
-tcp_port:854-992
+tcp_port:444-842
+tcp_port:844-992
 tcp_port:994
 tcp_port:996-1080
 tcp_port:1194
@@ -86,11 +86,9 @@ tcp_port:5659
 tcp_port:5672
 tcp_port:5900-5905
 tcp_port:5984
-tcp_port:6000-6063
 tcp_port:6379-6380
 tcp_port:6881-6889
 tcp_port:6969
-tcp_port:7000-7100
 tcp_port:7474
 tcp_port:7687
 tcp_port:8100
