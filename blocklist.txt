@@ -115,5 +115,6 @@ tcp_port:28017
 # -------------------------------
 # Blocked Domain/IP 
 # -------------------------------
+domain:sberkassa.site
 domain:.gov
 #ip:203.0.113.10
