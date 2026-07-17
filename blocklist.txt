@@ -116,6 +116,9 @@ tcp_port:28017
 # Blocked Domain/IP 
 # -------------------------------
 domain:sberkassa.site
+domain:.edu
+domain:.gov
+domain:udemy.com
 domain:.gov
 domain:.mil
 domain:.int
