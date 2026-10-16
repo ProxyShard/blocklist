@@ -7051,6 +7051,10 @@ domain:scraperapi.com
 domain:scrapingbee.com
 domain:crawlbase.com
 domain:zyte.com
+domain:pixelscan.net
+domain:pixelscan.dev
+domain:whoer.net
+domain:ipqualityscore.com
 ip:193.19.152.74
 ip:195.189.240.74
 ip:195.189.240.75
