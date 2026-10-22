@@ -40,7 +40,8 @@ udp_port:5351-5353
 udp_port:5555
 udp_port:5632
 udp_port:6881-6999
-udp_port:7000-8000
+udp_port:7000-7776
+udp_port:7778-8000
 udp_port:8888
 udp_port:9000-9100
 udp_port:11211
