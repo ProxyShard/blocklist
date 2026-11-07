@@ -3982,6 +3982,8 @@ domain:krediidipank.ee
 domain:kreditprombank.com
 domain:kredobank.az
 domain:kredobank.com.ua
+domain:obank.com.ua
+domain:bank-kd.com.ua
 domain:kredytbank.pl
 domain:krungsrigecard.com
 domain:kruss.kiev.ua
